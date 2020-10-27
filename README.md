@@ -1,5 +1,4 @@
-# P2
-A comprehensive How to Download, Play, and Contribute to Magic The Gathering Arena (MTGA)
+# A comprehensive How to Download, Play, and Contribute to Magic The Gathering Arena (MTGA)
 
 
 How To Download MTGA
