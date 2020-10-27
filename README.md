@@ -11,17 +11,17 @@ MTGA is the perfect game for you!  So how do you download it? Just follow these 
 *****************************************
 Minimium System Requirements
 
-PC 
+PC  
 Windows 7                                         
 AMD Athlon 64 X2 Dual Core 5600+ or Equivalent    
 GeForce GTX 8800 or Equivalent                 
 2 GB RAM       
 
-MAC
-MAC OS X/10
-Intel Core i5
-1024MB VRAM
-4 GB RAM
+MAC 
+MAC OS X/10 
+Intel Core i5 
+1024MB VRAM 
+4 GB RAM  
 **************************
 Download
 
