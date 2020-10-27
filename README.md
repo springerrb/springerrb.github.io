@@ -11,14 +11,14 @@ MTGA is the perfect game for you!  So how do you download it? Just follow these 
 *****************************************
 Minimium System Requirements
 PC                                                MAC
-____________________________________________________________
+
 Windows 7                                         MAC OS X/10
 AMD Athlon 64 X2 Dual Core 5600+ or Equivalent    Intel Core i5
 GeForce GTX 8800 or Equivalent                    1024MB VRAM
 2 GB RAM                                          4 GB RAM
-
+**************************
 Download
-************
+
 1) From any browser, go to 
 https://magic.wizards.com/en/mtgarena?gclid=Cj0KCQjwit_8BRCoARIsAIx3Rj4PpoLi8SkEfVfxXGG0jbr2MVGipjAy3YiYVe7xEdzQ1tnbv6s_XowaAmrXEALw_wcB 
 (alternatively in your search engine of choice type "mtga download")
@@ -39,8 +39,9 @@ To the bottom right of the trailer for the game is a "Get" button. Click it and 
 
 6) Congratualate yourself for getting MTGA.
 
+*******************************************
 Create an Account
-********************
+
 Now you have the game installed there is still a little more work you have to do before you can play.
 
 MTGA requires that you make a Wizards of the Coast account.
@@ -48,8 +49,9 @@ MTGA requires that you make a Wizards of the Coast account.
 
 With Your new game and new account(s) you can now enjoy all that MTGA has to offer.
 
+****************************************
 MTGA Community
-***********************
+
 Noticed a Bug? Or just want to contribute to the game/community?
 There are several places to get in touch witht the MTGA Community.
 
