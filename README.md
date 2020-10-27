@@ -18,13 +18,9 @@ GeForce GTX 8800 or Equivalent
 2 GB RAM       
 
 MAC                                         
-
 MAC OS X/10                                         
-
 Intel Core i5                                         
-
 1024MB VRAM                                         
-
 4 GB RAM                                          
 
 **************************
